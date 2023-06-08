@@ -10,7 +10,9 @@ redirect_from:
 
 I am a second year Ph.D. student in the Department of Mathematics at UC Davis. 
 
-I am interested in the mathematical foundations of quantum error correction and quantum information theory, which spans various fields such as quantum codes and fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. Lately, I have also developed a strong interest in the mathematical machinery that underlies deep learning, and I am eager to delve deeper into this field.
+I am interested in the mathematical foundations of quantum error correction and quantum information theory, which spans various fields such as quantum codes and fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. 
+
+Lately, I have also developed a strong interest in the mathematical machinery that underlies deep learning, and I am eager to delve deeper into this field.
 
 I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>.
 
