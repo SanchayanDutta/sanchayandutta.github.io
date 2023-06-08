@@ -10,9 +10,11 @@ redirect_from:
 
 I am a second year Ph.D. student in the Department of Mathematics at UC Davis. 
 
-I am interested in the mathematical foundations of quantum error correction and quantum information theory, which spans the fields of quantum codes and fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras.
+I am interested in the mathematical foundations of quantum error correction and quantum information theory, which spans various fields such as quantum codes and fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. Lately, I have also developed a strong interest in the mathematical machinery that underlies deep learning, and I am eager to delve deeper into this field.
 
 I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>.
+
+This Summer 2023 I'm a visiting graduate researcher at Harvard University, fortunate to be hosted by <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>.
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
