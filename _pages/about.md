@@ -12,7 +12,7 @@ I am a second year Ph.D. student in the Department of Mathematics at UC Davis.
 
 My primary area of research interest is the mathematical foundations of theoretical quantum computing, which spans various fields such as quantum codes and fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras.
 
-Lately, I have also developed an interest in the mathematical machinery that underlies deep learning, and I am eager to delve further into this field.
+Lately, I have also developed an interest in the mathematical machinery and geometrical structures that underlies deep learning, and I am eager to delve further into this field.
 
 I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. This Summer 2023 I am a visiting graduate researcher at Harvard University, fortunate to be hosted by <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>.
 
