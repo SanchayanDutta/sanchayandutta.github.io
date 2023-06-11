@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the Department of Mathematics at UC Davis. 
+I am a second year Ph.D. student in the Department of Mathematics at UC Davis.
 
-My primary area of research interest is the mathematical foundations of quantum error correction and quantum information theory, which spans various fields such as quantum codes and fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. 
+My primary area of research interest is the mathematical foundations of theoretical quantum computing, which spans various fields such as quantum codes and fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras.
 
 Lately, I have also developed an interest in the mathematical machinery that underlies deep learning, and I am eager to delve further into this field.
 
