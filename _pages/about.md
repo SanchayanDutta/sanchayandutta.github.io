@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a second-year Ph.D. student in Mathematics at UC Davis, specializing in the mathematical foundations of theoretical quantum computing. 
 
-This broad field encompasses quantum codes, fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. Lately, my interests have also expanded into the mathematical and geometrical structures inherent in machine learning and optimization.
+This encompasses quantum codes, fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. Lately, my interests have also expanded into the mathematical and geometrical structures inherent in machine learning and optimization.
 
 I have the unique privilege of being advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. This Summer 2023 I am a visiting graduate researcher at Harvard University, fortunate to be hosted by <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>.
 
