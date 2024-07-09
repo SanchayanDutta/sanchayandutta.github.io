@@ -12,7 +12,7 @@ I'm a second-year Ph.D. student in Mathematics at UC Davis, specializing in the 
 
 This encompasses quantum codes, fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. Lately, my interests have also expanded into the mathematical and geometrical structures inherent in machine learning and optimization.
 
-I have the unique privilege of being advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. This Summer 2023 I am a visiting graduate researcher at Harvard University, fortunate to be hosted by <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>.
+I have the unique privilege of being advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. In Summer 2023, I was a visiting graduate researcher at Harvard University, fortunate to be hosted by <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>. In Summer 2024, I'm visiting <a href="https://optml.mit.edu/" target="_blank">Suvrit Sra's</a> group at TU Munich and working on the mathematics of linear transformers.
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
