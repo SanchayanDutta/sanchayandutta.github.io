@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Ph.D. student in Mathematics at UC Davis, specializing in the mathematical foundations of theoretical quantum computing. 
+I'm a fourth-year Ph.D. student in Mathematics at UC Davis, specializing in the mathematical foundations of theoretical quantum computing. 
 
 This encompasses quantum codes, fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. Lately, my interests have also expanded into the mathematical and geometrical structures inherent in machine learning and optimization.
 
