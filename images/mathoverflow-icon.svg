@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MathOverflow">
+  <defs>
+    <linearGradient id="moBracket" x1="8" y1="32" x2="56" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666564"/>
+      <stop offset="1" stop-color="#F28720"/>
+    </linearGradient>
+  </defs>
+
+  <!-- MathOverflow-style open bracket -->
+  <path d="M10 12 H52 V22
+           M10 12 V52
+           M10 52 H52 V42"
+        fill="none"
+        stroke="url(#moBracket)"
+        stroke-width="5"
+        stroke-linecap="square"
+        stroke-linejoin="miter"/>
+
+  <!-- Compact 'mo' mark for use as a small profile-link icon -->
+  <text x="16" y="40"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="25"
+        font-weight="700"
+        font-style="italic"
+        fill="#222222">mo</text>
+</svg>
