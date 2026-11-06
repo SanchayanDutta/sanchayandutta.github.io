@@ -14,7 +14,7 @@ This encompasses quantum coding theory, computational mathematics, and aspects o
 
 I have the unique privilege of being advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. 
 
-In Summer 2023, I was a visiting graduate researcher at Harvard University, fortunate to be hosted by <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>. In Summer 2024, I'm visiting <a href="https://optml.mit.edu/" target="_blank">Suvrit Sra's</a> group at TU Munich and working on the mathematics of linear transformers.
+In Summer 2023, I was a visiting graduate researcher at Harvard University, fortunate to be hosted by <a href="https://anuraganshu.seas.harvard.edu/" target="_blank">Anurag Anshu</a>. In Summer 2024, I was visiting <a href="https://optml.mit.edu/" target="_blank">Suvrit Sra's</a> group at TU Munich and working on the mathematics of transformers.
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
