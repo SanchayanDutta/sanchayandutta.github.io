@@ -18,6 +18,6 @@ In Summer 2023, I was a visiting graduate researcher at Harvard University, fort
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
-You may reach me at `dutta[at]ucdavis.edu`. My office is at MSB 3219.
+You may reach me at `dutta[at]ucdavis.edu`. My office is at MSB 3229.
 
 We run a couple of weekly reading groups at UC Davis on <a href="https://sites.google.com/ucdavis.edu/quantumalgebragroup" target="_blank">Quantum Algebra</a> and <a href="https://sites.google.com/ucdavis.edu/computationalcomplexitygroup" target="_blank">Computational Complexity</a> in hybrid-mode. If you'd like to join us kindly drop me an email.
