@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a fifth-year Ph.D. student in Mathematics at UC Davis, specializing in the mathematical foundations of quantum computing. 
 
-This encompasses quantum codes, fault tolerance, quantum algebra, geometric topology, computational complexity, and operator algebras. Lately, my interests have also expanded into the mathematical and geometrical structures inherent in machine learning and optimization.
+This encompasses quantum coding theory, computational mathematics, and aspects of theoretical CS. Lately, my interests have also expanded into the mathematical structures inherent in machine learning and optimization.
 
 I have the unique privilege of being advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. 
 
