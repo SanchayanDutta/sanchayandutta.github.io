@@ -15,16 +15,15 @@ main:
     
   - title: "Blurbs"
     url: https://sanchayandutta.wordpress.com/
-    
+
+  - title: "CV"
+    url: /files/Sanchayan_Dutta_CV.pdf
     
 #  - title: "Teaching"
 #    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-#  - title: "CV"
-#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
